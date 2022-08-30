@@ -16,7 +16,6 @@ By Amit Kumar
 - It almost take's 2-3hr to understand and build this beautiful landing page.
  ## Screenshots
  ![]()
- 
 
 
 
